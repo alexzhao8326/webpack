@@ -1,0 +1,16 @@
+{
+  "name": "webpack_day1",
+  "version": "1.0.0",
+  "description": "webpack project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Alex",
+  "license": "ISC",
+  "devDependencies": {
+    "file-loader": "^4.2.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
